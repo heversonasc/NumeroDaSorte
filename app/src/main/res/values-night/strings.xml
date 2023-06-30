@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- frame_1 strings -->
+
+	<string name="app_name">Número da sorte</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="gere_n_meros_para_jogar_na_megasena_string">Gere nmeros para jogar na MEGASENA</string>
+	<string name="n_mero_da_sorte____string">Nmero da Sorte :</string>
+</resources>
